@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/salt-and-satoshi/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/salt-and-satoshi/static/js/main.22a1f4cd.chunk.js",
-    "main.js.map": "/salt-and-satoshi/static/js/main.22a1f4cd.chunk.js.map",
-    "runtime-main.js": "/salt-and-satoshi/static/js/runtime-main.f56504c5.js",
-    "runtime-main.js.map": "/salt-and-satoshi/static/js/runtime-main.f56504c5.js.map",
-    "static/js/2.2a55f9cd.chunk.js": "/salt-and-satoshi/static/js/2.2a55f9cd.chunk.js",
-    "static/js/2.2a55f9cd.chunk.js.map": "/salt-and-satoshi/static/js/2.2a55f9cd.chunk.js.map",
-    "static/js/3.51bddca1.chunk.js": "/salt-and-satoshi/static/js/3.51bddca1.chunk.js",
-    "static/js/3.51bddca1.chunk.js.map": "/salt-and-satoshi/static/js/3.51bddca1.chunk.js.map",
+    "main.js": "/salt-and-satoshi/static/js/main.85c39f7a.chunk.js",
+    "main.js.map": "/salt-and-satoshi/static/js/main.85c39f7a.chunk.js.map",
+    "runtime-main.js": "/salt-and-satoshi/static/js/runtime-main.7b2250f1.js",
+    "runtime-main.js.map": "/salt-and-satoshi/static/js/runtime-main.7b2250f1.js.map",
+    "static/js/2.d0603786.chunk.js": "/salt-and-satoshi/static/js/2.d0603786.chunk.js",
+    "static/js/2.d0603786.chunk.js.map": "/salt-and-satoshi/static/js/2.d0603786.chunk.js.map",
+    "static/js/3.59912e71.chunk.js": "/salt-and-satoshi/static/js/3.59912e71.chunk.js",
+    "static/js/3.59912e71.chunk.js.map": "/salt-and-satoshi/static/js/3.59912e71.chunk.js.map",
+    "static/js/4.8207865f.chunk.js": "/salt-and-satoshi/static/js/4.8207865f.chunk.js",
+    "static/js/4.8207865f.chunk.js.map": "/salt-and-satoshi/static/js/4.8207865f.chunk.js.map",
+    "static/js/5.ab63afef.chunk.js": "/salt-and-satoshi/static/js/5.ab63afef.chunk.js",
+    "static/js/5.ab63afef.chunk.js.map": "/salt-and-satoshi/static/js/5.ab63afef.chunk.js.map",
+    "static/js/6.dd3e8b3c.chunk.js": "/salt-and-satoshi/static/js/6.dd3e8b3c.chunk.js",
+    "static/js/6.dd3e8b3c.chunk.js.map": "/salt-and-satoshi/static/js/6.dd3e8b3c.chunk.js.map",
     "index.html": "/salt-and-satoshi/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/salt-and-satoshi/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.2a55f9cd.chunk.js.LICENSE.txt": "/salt-and-satoshi/static/js/2.2a55f9cd.chunk.js.LICENSE.txt"
+    "static/js/2.d0603786.chunk.js.LICENSE.txt": "/salt-and-satoshi/static/js/2.d0603786.chunk.js.LICENSE.txt",
+    "static/js/3.59912e71.chunk.js.LICENSE.txt": "/salt-and-satoshi/static/js/3.59912e71.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f56504c5.js",
-    "static/js/2.2a55f9cd.chunk.js",
+    "static/js/runtime-main.7b2250f1.js",
+    "static/js/2.d0603786.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.22a1f4cd.chunk.js"
+    "static/js/main.85c39f7a.chunk.js"
   ]
 }
